@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer Translucent Halo -->
+    <path
+        android:fillColor="#400288D1"
+        android:pathData="M12,12m-11,0a11,11 0 1,0 22,0a11,11 0 1,0 -22,0" />
+    <!-- White Border Ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,12m-7,0a7,7 0 1,0 14,0a7,7 0 1,0 -14,0" />
+    <!-- Center Location Dot -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M12,12m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+</vector>
